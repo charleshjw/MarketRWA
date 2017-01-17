@@ -1,0 +1,76 @@
+# =====================================================================,
+# Configurations specifying riskfactors which will be treated,
+# using real distribution. This includes interbank curves with,
+# 2y and up points, major currency exchange rate and Equity
+# market factors.,
+# For the following factors, it is better using normal distribution
+# either because of high volality and erratic behavior around ,
+# tail or less reliability in data:,
+"# 	Short term interest rate points",
+"#	JPY interbank curves ( so low that log returns are volatile)",
+"#	Spreads",
+"#	Volatilities",
+"#	Minor currency exchange rates", interest rate curve and forwards
+"#	some index with less liquidity (muni", CD etc )
+# =====================================================================,
+USDInterbank,730
+USDInterbank,1095
+USDInterbank,1460
+USDInterbank,1825
+USDInterbank,2555
+USDInterbank,3650
+USDInterbank,4380
+USDInterbank,5475
+USDInterbank,10950
+USDTreasury,730
+USDTreasury,1095
+USDTreasury,1825
+USDTreasury,2555
+USDTreasury,3650
+USDTreasury,10950
+EURInterbank,730
+EURInterbank,1095
+EURInterbank,1460
+EURInterbank,1825
+EURInterbank,2555
+EURInterbank,3650
+GBPInterbank,730
+GBPInterbank,1095
+GBPInterbank,1460
+GBPInterbank,1825
+GBPInterbank,2555
+GBPInterbank,3650
+EURSpot,0
+JPYSpot,0
+GBPSpot,0
+CHFSpot,0
+CADSpot,0
+AUDSpot,0
+J00IRVol,0
+J01IRVol,0
+J02IRVol,0
+J03IRVol,0
+J04IRVol,0
+J05IRVol,0
+J06IRVol,0
+J07IRVol,0
+J08IRVol,0
+J09IRVol,0
+J10IRVol,0
+J11IRVol,0
+J12IRVol,0
+J13IRVol,0
+J14IRVol,0
+J15IRVol,0
+J16IRVol,0
+J17IRVol,0
+USDINAAASP,730
+USDINAAASP,1095
+USDINAAASP,1825
+USDINAAASP,2555
+USDINAAASP,3650
+USDINAAASP,10950
+USDMBS_CC_OAS,0
+SP500_C00000117_EQTV,93
+SP500_C00000117_EQTV,184
+SP500_C00000117_EQTV,360

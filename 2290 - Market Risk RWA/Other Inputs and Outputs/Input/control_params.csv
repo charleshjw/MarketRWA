@@ -1,0 +1,21 @@
+Parameter,Value,Comment
+minDatesCount,479,Minimum number of dates a factor should have to avoid being regressed
+num_pca_ir_curve,18,Number of principla components calculated for IR to use in regressions
+num_pca_fx_forward,18,Number of principla components calculated for FX Forward to use in regressions
+num_pca_eqt_spot,18,Number of principla components calculated for Eqt Spotto use in regressions
+num_pca_eqt_vol,18,Number of principla components calculated for Eqt Vol to use in regressions
+num_pca_fx_spot,18,Number of principla components calculated for FX Spot to use in regressions
+num_pca_fx_vol,18,Number of principla components calculated for FX Vol to use in regressions
+minNumRetsForRegr,21,Minimum days of data without gap a factor should have to be regressed
+maxAllowedGap,5,"Maximum allowed gap in the data. If a gap exceeds this number, all previous values are thrown away"
+maxDatesUnch,22,"Maximum allowed number of dates with unchanged data. If a number of days with unchanged data exceeds this number, all previous values are thrown away"
+defaultIdioVol,0.01,
+defaultIdioEquityVol,0.05,
+staleDataDailyVolMin,0.0,
+decay_factor,0.993,
+percentile, 0.01
+randomness_control, 0, "Controls randomness"
+largest_return, 0.5, "Lagest allowed return in historical data"
+shift, 0.0001, "Shift to set scenarios for sensitivities
+sim_horizon, 1, "Simulation horizon in days
+MC_num,1000,"umber of MC simulations

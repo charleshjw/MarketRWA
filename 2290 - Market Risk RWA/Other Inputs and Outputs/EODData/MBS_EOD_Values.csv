@@ -1,0 +1,3 @@
+CurveSurface, CurveType, ID, Name, RiskMetrics Link, Datum, Relative Curve, Term Interp,Time Interp, CurveUnit, Surface,
+,MBS Param,MBS_CC_OAS,IRUSD_MBS_CC_OAS,USD-IR MBS_CC_OAS,0,TRUE,Constant,Constant,BPS,term,
+,,,,,,,,,,0,31.8512

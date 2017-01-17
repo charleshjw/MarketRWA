@@ -1,0 +1,45 @@
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,RiskMetrics Link,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap1m11,index_cap1m11,0,TRUE,I07-IR-Vol Index,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,,0,0.618744
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,RiskMetrics Link,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap1m21,index_cap1m21,0,TRUE,I08-IR-Vol Index,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,,0,0.294884
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,RiskMetrics Link,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap3m11,index_cap3m11,0,TRUE,I09-IR-Vol Index,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,,0,0.495887
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,RiskMetrics Link,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap3m21,index_cap3m21,0,TRUE,I10-IR-Vol Index,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,,0,0.289884
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,RiskMetrics Link,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap6m11,index_cap6m11,0,TRUE,I11-IR-Vol Index,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,,0,0.60312
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,RiskMetrics Link,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap6m21,index_cap6m21,0,TRUE,I12-IR-Vol Index,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,,0,0.28354
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,RiskMetrics Link,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_euro1,index_euro1,0,TRUE,I02-IR-Vol Index,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,,0,0.268060
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap1m12,index_cap1m12,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,-0.618744
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap1m22,index_cap1m22,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,-0.294884
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap3m12,index_cap3m12,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,-0.495887
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap3m22,index_cap3m22,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,-0.289884
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap6m12,index_cap6m12,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,-0.60312
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_cap6m22,index_cap6m22,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,-0.28354
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,index_euro2,index_euro2,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,-0.26806
+CurveSurface,CurveType,Name,ID,Datum,Relative Curve,Term Interp,Time Interp,CurveUnit,Surface,
+,Index,scenType,scenType,0,TRUE,Constant,Constant,%ANNU actual/360,Term,0
+,,,,,,,,,0,0
